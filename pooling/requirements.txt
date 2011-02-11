@@ -1,0 +1,4 @@
+from easy_install:
+
+psycopg2
+twisted 
